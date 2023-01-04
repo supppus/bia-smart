@@ -15,7 +15,7 @@ Quando ela está de bom humor ela só da boa noite, dia e tarde, uma coisa bem l
  - "bia, quantos são 2 - 2",
  - "bia, quantos são 5 - 3",
  <br/>
- *Atenção, é obrigatório colocar citar o apelido bia ou beatriz para ela responder os cálculos...*
+ *Atenção, é obrigatório citar o apelido bia ou beatriz para ela responder os cálculos...*
  
 ## Mal
  Uma outra funcionalidade que coloquei foi fazer a bia xingar, ela tem que estar de mal-humor!
