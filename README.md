@@ -52,6 +52,16 @@ mysql2
 sequelize
 ```
 
+`All`
+```
+mysql
+nodejs
+```
+
+`Commands`
+`node deploy-commands.js`
+`node index.js`
+
 <br/>
 <br/>
 <p style="color: red;">Projeto solo, sem nenhum objetivo de obter lucro.</p>
