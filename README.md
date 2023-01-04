@@ -1,4 +1,5 @@
 # bia-smart
+* Antes de prosseguir, recomendo somente para maiores de 18 anos pois os arquivos contém palavras impróprias.
 
 Criei um algoritmo simples de respostas e um de respostas predefinidas.
 Existe 4 tipos de humor, da para alterar o humor pelo comando `/humor` dentro do servidor (Basta ser administrador) ou pelo arquivo CFG JSON, sendo eles bom, mal, justa e alegre.
