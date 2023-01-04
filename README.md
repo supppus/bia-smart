@@ -45,5 +45,6 @@ mysql2
 sequelize
 ```
 
-
-#<p style="color: red;">Projeto solo, sem nenhum objetivo de obter lucro.</p>
+<br/>
+<br/>
+<p style="color: red;">Projeto solo, sem nenhum objetivo de obter lucro.</p>
