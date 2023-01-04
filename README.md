@@ -35,6 +35,12 @@ Ela alegre, ela faz uma rápida análise na mensagem, e traz uma resposta visand
  - Ela simula que está digitando, o tempo de digitação simulada pode variar de 0 a 10 segundos...
 
 
+## Comandos
+ - /limpar (apaga todas as mensagens)
+ - /humor (altera o humor)
+ - /ajuda (mostra sua lista de comandos)
+
+<br/><br/><br/>
 Segue a lista de libs utilizadas no NodeJS:
 ```
 ascii-table
